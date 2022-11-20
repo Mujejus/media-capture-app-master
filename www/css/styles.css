@@ -1,0 +1,54 @@
+/* add your own styles here */
+.divider {
+    font-weight: 900;
+    margin-top: -12.5px;
+}
+
+.photos {
+    color:rgba(79, 125, 19, 0.731);
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: -1.5px;
+}
+
+.videos {
+    color:rgba(234, 130, 11, 0.877);
+    font-size: 12pt;
+    font-weight: bold;
+    margin-bottom: -5px;
+}
+
+#results {
+    background-color: rgba(70, 70, 70, 0.256);
+
+}
+#results h1 {
+    margin-bottom: -10px;
+}
+img {
+    max-width: 40%;
+    padding: 10px;
+    margin-left: 7px;
+    margin-right: 7px;
+    background-color: rgba(79, 125, 19, 0.655);
+}
+
+video {
+    max-width: 40%;
+    padding: 10px;
+    margin-left: 7px;
+    margin-right: 7px;
+    background-color: rgba(234, 130, 11, 0.831);
+    
+}
+
+
+
+#button {
+    max-width: 150px;
+    margin: auto;
+    display: flex;
+}
+
+
+
